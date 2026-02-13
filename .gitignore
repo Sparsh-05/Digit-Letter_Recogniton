@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+emnist/
+.env
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Models (too large for Git)
+*.h5
+*.keras
+
+# TensorFlow logs
+logs/
